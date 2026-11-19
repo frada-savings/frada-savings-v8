@@ -1,0 +1,22 @@
+{
+  "name": "FRADA Savings",
+  "short_name": "FRADA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#52091e",
+  "theme_color": "#52091e",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
